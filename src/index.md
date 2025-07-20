@@ -9,7 +9,7 @@ const catalogues = FileAttachment("./data/catalogues.json").json();
 # Catalogue
 
 Experimental project under development.  
-[Source code](https://github.com/WHO-Collaboratory/collaboratory-pgs-data-standards-page)
+Sources: [code for this page](https://github.com/WHO-Collaboratory/collaboratory-pgs-data-standards-page), [catalogue repository](https://github.com/WHO-Collaboratory/collaboratory-pgs-data-standards).
 
 ---
 
