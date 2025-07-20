@@ -8,6 +8,8 @@ const catalogues = FileAttachment("./data/catalogues.json").json();
 
 # Catalogue
 
+Experimental project under development.
+
 ---
 
 ## Filters
